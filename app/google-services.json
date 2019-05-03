@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "497033164442",
+    "firebase_url": "https://chat-app-9a74d.firebaseio.com",
+    "project_id": "chat-app-9a74d",
+    "storage_bucket": "chat-app-9a74d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497033164442:android:90eb6d3106b90a74",
+        "android_client_info": {
+          "package_name": "com.lobxy.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497033164442-4anlfga7gmmrhmd3nr2s2lq1t00hi8fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lobxy.chatapp",
+            "certificate_hash": "a280f520e107c79b086b3c875b868f2890520234"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKt8PJ2QRHJOwQW049mWgiU7AnPGE_AUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497033164442-j2vnsg2l7tm3fldvv1ncm7bi61ejm4js.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497033164442-3hci2en3u196g6iqbefj55j999jn7pgb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lobxy.Chat-App"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
